@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="center">Hello there, i'm a artist and programmer from Brazil. Welcome to my little page!</h2>
+<h2 align="center">Hello there, I'm a artist and programmer from Brazil. Welcome to my little page!</h2>
 
 ###
 
